@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "Jeremy Adamson currently resides in Saint Louis after relocating several times throughout the United States. They hold degrees from University of California Irvine in both computational physics and computational mathematics along with a California teaching credential. They currently work at Boeing as a systems integrator and OMS lead after taking time out of their career to be a stay at home parent and will be pursuing a Master's in computer science next fall.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,107 +11,110 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Fruits and Friends",
+        "startDate": "2022",
+        "description": "Final project for Codefellows 201 involving creation of a web version of the Niya inspired board game. Personal contribution included coding the base data structures and the creation of single player mode utilizing a recursive mini-max algorithm.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/FruitsandFriends/Fruits-and-Friends-Sample.png",
+          "images/portfolio/FruitsandFriends/Fruits-and-Friends-Sample3.png"
+        ],
+        "url": "https://knights-of-the-project-table.github.io/fruits-and-friends/index.html",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          }
+        ]
+      },
+      {
+        "title": "Salmon Cookies",
+        "startDate": "2022",
+        "description": "An app which gives sales projections for several stores based upon given parameters.",
+        "images": [
+          "images/portfolio/SalmonCookies/Salmon-Cookies-Sample.png"
+        ],
+        "url": "https://jeremy-adamson.github.io/cookie-stand/sales.html",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          }
+        ]
+      },
+      {
+        "title": "Physics Thesis",
+        "startDate": "2005",
+        "description": "Ten week superconductivity and Bose-Einstein condensate self-led experiment combining multiple programming languages (C++, Matlab, and Mathematica) to convert and analyze native output readings down to 0.1K with liquid helium.",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/d/d1/Liquid_Helium_%285633215176%29.jpg"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-cplusplus-plain",
+            "name": "C++"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-matlab-plain",
+            "name": "Matlab"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "",
+            "name": "Mathematica"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Boeing Aerospace",
+        "title": "Integration and Analysis Engineer",
+        "years": "09.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Matlab"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Confluence",
+          "Jira",
+          "XMLspy"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Valley High School",
+        "title": "High School Science Teacher",
+        "years": "09.2009 - 06.2010",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          ""
+        ]
+      },
+      {
+        "company": "Woodbridge High School",
+        "title": "AP Physics Teacher",
+        "years": "09.2008 - 06.2009",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          ""
         ]
       }
     ]
